@@ -1,4 +1,5 @@
 # SnankeWaterGunGame
-Basic python project
 
-## Live Demo: https://Snake-Water-Gun-Game.ishika05.repl.run
+## Basic python project
+
+### Run on Repl.it : https://repl.it/@Ishika05/Snake-Water-Gun-Game
